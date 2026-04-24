@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The_Eight_Puzzle_Problem", "The_Eight_Puzzle_Problem.vcxproj", "{16570379-ED96-4154-9D72-01630773536F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16570379-ED96-4154-9D72-01630773536F}.Debug|x64.ActiveCfg = Debug|x64
+		{16570379-ED96-4154-9D72-01630773536F}.Debug|x64.Build.0 = Debug|x64
+		{16570379-ED96-4154-9D72-01630773536F}.Debug|x86.ActiveCfg = Debug|Win32
+		{16570379-ED96-4154-9D72-01630773536F}.Debug|x86.Build.0 = Debug|Win32
+		{16570379-ED96-4154-9D72-01630773536F}.Release|x64.ActiveCfg = Release|x64
+		{16570379-ED96-4154-9D72-01630773536F}.Release|x64.Build.0 = Release|x64
+		{16570379-ED96-4154-9D72-01630773536F}.Release|x86.ActiveCfg = Release|Win32
+		{16570379-ED96-4154-9D72-01630773536F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {687A49EE-1BBA-4A09-9AE6-138424DC0556}
+	EndGlobalSection
+EndGlobal

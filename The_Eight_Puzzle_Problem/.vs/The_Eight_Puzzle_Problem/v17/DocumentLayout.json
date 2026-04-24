@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\code\\c\\Introduction-to-Robot-Intelligence\\The_Eight_Puzzle_Problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16570379-ED96-4154-9D72-01630773536F}|The_Eight_Puzzle_Problem.vcxproj|F:\\code\\c\\Introduction-to-Robot-Intelligence\\The_Eight_Puzzle_Problem\\Program1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16570379-ED96-4154-9D72-01630773536F}|The_Eight_Puzzle_Problem.vcxproj|solutionrelative:Program1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program1.cpp",
+              "DocumentMoniker": "F:\\code\\c\\Introduction-to-Robot-Intelligence\\The_Eight_Puzzle_Problem\\Program1.cpp",
+              "RelativeDocumentMoniker": "Program1.cpp",
+              "ToolTip": "F:\\code\\c\\Introduction-to-Robot-Intelligence\\The_Eight_Puzzle_Problem\\Program1.cpp",
+              "RelativeToolTip": "Program1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T08:37:42.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
